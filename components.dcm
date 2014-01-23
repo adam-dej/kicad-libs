@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Fri 10 Jan 2014 09:27:08 AM CET
+EESchema-DOCLIB  Version 2.0  Date: Sat 11 Jan 2014 04:58:15 PM CET
 #
 $CMP AVR-ISP-6-F
 D Standard IDC6 Male Connector, ATMEL ISP 6pin (fixed)
@@ -8,6 +8,10 @@ $ENDCMP
 $CMP MOSFET_P
 D N- and P-Channel MOSFET
 F transistors/mos/*.*
+$ENDCMP
+#
+$CMP PHOTOT
+F transistors/bipolar/*.*
 $ENDCMP
 #
 $CMP Si4562DY
